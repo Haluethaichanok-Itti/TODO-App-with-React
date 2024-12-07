@@ -1,0 +1,6 @@
+{
+    "baseUrl": "https://www.youtube.com/",
+    "env": {
+      "server": "staging"
+    }
+  }

@@ -1,0 +1,7 @@
+{
+    "baseUrl": "https://facebook.com",
+    "env": {
+      "server": "production"
+    }
+  }
+  
